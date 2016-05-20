@@ -1,0 +1,18 @@
+{
+  "name": "uikit-rtl",
+  "homepage": "https://github.com/Oudmane/uikit-rtl",
+  "authors": [
+    "Ayoub Oudmane <ayoub@oudmane.me>"
+  ],
+  "description": "RTL version of UIkit (git.io/UIkit) a lightweight and modular front-end framework I use to develop web UI",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "uikit": "^2.26.3"
+  }
+}
