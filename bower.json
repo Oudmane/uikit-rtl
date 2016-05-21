@@ -5,7 +5,6 @@
     "Ayoub Oudmane <ayoub@oudmane.me>"
   ],
   "description": "RTL version of UIkit (git.io/UIkit) a lightweight and modular front-end framework I use to develop web UI",
-  "main": "",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -14,5 +13,11 @@
   ],
   "dependencies": {
     "uikit": "^2.26.3"
-  }
+  },
+  "keywords": [
+    "uikit",
+    "rtl",
+    "uikit-rtl",
+    "oudmane"
+  ]
 }
