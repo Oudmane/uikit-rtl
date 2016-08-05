@@ -1,0 +1,26 @@
+{
+  "name": "uikit-rtl",
+  "version": "1.0.0",
+  "description": "RTL version of UIkit (git.io/UIkit) a lightweight and modular front-end framework I use to develop web UI",
+  "main": "uikit-rtl.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oudmane/uikit-rtl.git"
+  },
+  "keywords": [
+    "uikit",
+    "rtl",
+    "uikit-rtl",
+    "oudmane"
+  ],
+  "author": "Ayoub Oudmane <ayoub@oudmane.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oudmane/uikit-rtl/issues"
+  },
+  "homepage": "https://github.com/Oudmane/uikit-rtl#readme",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "uikit": "^2.26.4"
+  }
+}
