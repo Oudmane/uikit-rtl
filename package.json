@@ -21,6 +21,6 @@
   "homepage": "https://github.com/Oudmane/uikit-rtl#readme",
   "dependencies": {
     "jquery": "^3.1.0",
-    "uikit": "^2.26.4"
+    "uikit": "^2.27.1"
   }
 }
